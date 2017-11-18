@@ -1,4 +1,11 @@
 [cli]
+bears = SpaceConsistencyBear,IndentationBear
+files = *.java
+editor = atom
+use_spaces = True
+default_actions = *: ApplyPatchAction
+language = java
 [java]
 bears = CheckstyleBear
 files = *.java
+editor = atom
