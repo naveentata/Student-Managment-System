@@ -1,0 +1,4 @@
+[cli]
+[java]
+bears = CheckstyleBear
+files = *.java
